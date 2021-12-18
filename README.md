@@ -21,7 +21,7 @@ Skills: Golang/Cc++ / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=azizulhoq953&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azizulhoq953)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/azizulhoq953)  
 
