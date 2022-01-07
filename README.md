@@ -6,7 +6,7 @@ besides. I am solving Problems,
 
 Skills: Golang/Cc++ / JS / HTML / CSS
 
-- 🔭 I’m currently working no working 
+- 🔭 I’m currently no working 
 - 🌱 I’m currently learning Golang 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about any Problem  
