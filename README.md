@@ -1,10 +1,3 @@
-## Hi there 👋 
-### My Name is Md Azizul Hoq
-I am a web Developer Who designs the UI/UX of the website very nicely, 
-and I develop backends in a very simple way
-besides. I am solving Problems,
-
-
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
