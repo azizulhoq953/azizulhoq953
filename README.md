@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/md-azizul-hoq-480b561ba/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/md-azizul-hoq-480b561ba/" target="_blank"><img src="icons/hugo/hugo-plain-wordmark.svg" alt="Hire Me your project " height="41" width="174"></a>
+<a href="https://www.linkedin.com/in/md-azizul-hoq-480b561ba/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Hire Me your project " height="41" width="174"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=azizulhoq953&style=flat-square&color=blue" alt=""></p>
 
