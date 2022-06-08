@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="/home/azizul/Downloads/c.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+
 </p>
 
 ---
@@ -44,8 +44,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
