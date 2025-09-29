@@ -15,7 +15,7 @@
 
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
-- 🔭 I’m Backend Developer.
+- 🔭 I’m Working Go, Node.js.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on LeetCode and codeforces and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-azizul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-azizul-hoq-480b561ba/)
