@@ -1,53 +1,56 @@
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/md-azizul-hoq-480b561ba/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </p>
+
+<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/md-azizul-hoq-480b561ba/" target="_blank"><img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/hugo/hugo-original.svg" alt="Hire Me your project " height="41" width="174"></a>
+  <a href="https://www.linkedin.com/in/md-azizul-hoq-480b561ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=azizulhoq953&style=for-the-badge&color=blue" alt="Views">
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=azizulhoq953&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-### :woman_technologist: &nbsp;About Me :
-
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
-
-- 🔭 I’m Working Go, Node.js.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on LeetCode and codeforces and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-azizul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-azizul-hoq-480b561ba/)
-
----
-
-### 🛠 &nbsp;Languages and Tools :
-
-<p>
-<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="Cc++" alt="Cc++" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ansible/ansible-original.svg" title="ANSIBLE"  alt="Ansible" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" **alt="Git" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/stopstalk/media-resources/blob/265b728c26ba597b957e72134a3b49a10dc0c91d/stopstalk-large-colored.svg" title="stopStalk" **alt="stopStalk" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
-
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
 </p>
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azizulhoq953&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+### 👩‍💻 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizulhoq953&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+I am a passionate **Developer** from Bangladesh 🇧🇩.
+
+* 🔭 **Current Work**: Building with **Go** and **Node.js**.
+* ✍️ **Interests**: Exploring **Technical Content Writing**.
+* 💡 **Free Time**: Solving problems on **LeetCode** and **Codeforces**.
+* 📫 **Connect with me**: [![Linkedin Badge](https://img.shields.io/badge/-Azizul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-azizul-hoq-480b561ba/)
 
 ---
 
+### 🛠 Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Golang" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="K8s" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 My Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=azizulhoq953&theme=highcontrast&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulhoq953&layout=compact&theme=vision-friendly-dark&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+---
