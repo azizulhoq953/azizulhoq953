@@ -1,62 +1,149 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</p>
+<div align="center">
+  
+# 👋 Hello, I'm Md. Azizul Hoq
 
-<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-azizul-hoq-480b561ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=azizulhoq953&style=for-the-badge&color=blue" alt="Views">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-azizul-hoq-480b561ba/)
+[![Profile Views](https://komarev.com/ghpvc/?username=azizulhoq953&style=for-the-badge&color=blue)](https://github.com/azizulhoq953)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
-</p>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+</div>
 
 ---
 
-### 👩‍💻 About Me
+## 👨‍💻 About Me
 
-I am a passionate **Developer** from Bangladesh 🇧🇩.
+I'm a passionate **Backend Developer** from 🇧🇩 Bangladesh, specializing in building scalable and efficient systems.
 
-* 🔭 **Current Work**: Building with **Go** and **Node.js**.
-* ✍️ **Interests**: Exploring **Technical Content Writing**.
-* 💡 **Free Time**: Solving problems on **LeetCode** and **Codeforces**.
-* 📫 **Connect with me**: [![Linkedin Badge](https://img.shields.io/badge/-Azizul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-azizul-hoq-480b561ba/)
+```go
+package main
+
+type Developer struct {
+    Name       string
+    Location   string
+    Expertise  []string
+    Learning   string
+    Hobbies    []string
+}
+
+func main() {
+    me := Developer{
+        Name:      "Md. Azizul Hoq",
+        Location:  "Bangladesh",
+        Expertise: []string{"Go", "Node.js", "DevOps"},
+        Learning:  "Technical Content Writing",
+        Hobbies:   []string{"Competitive Programming", "Reading Tech Articles"},
+    }
+}
+```
+
+- 🔭 Currently working with **Go** and **Node.js**
+- 🌱 Exploring **Technical Content Writing** and **Cloud Technologies**
+- ⚡ Solving problems on **LeetCode** and **Codeforces** in my free time
+- 💬 Ask me about **Backend Development**, **DevOps**, and **System Design**
+- 📫 Reach me: [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-azizul-hoq-480b561ba/)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 🛠 Languages and Tools
+## 📊 GitHub Statistics
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Golang" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="K8s" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
-</p>
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=azizulhoq953&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulhoq953&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azizulhoq953&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azizulhoq953&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=azizulhoq953&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-### 📊 My Stats
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=azizulhoq953&theme=highcontrast&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
-</p>
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/azizulhoq953/azizulhoq953/output/github-contribution-grid-snake-dark.svg)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulhoq953&layout=compact&theme=vision-friendly-dark&hide_progress=false&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizulhoq953&show_icons=true&theme=vision-friendly-dark&cache_seconds=1800" alt="General Stats" />
-</p>
+</div>
 
 ---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-azizul-hoq-480b561ba/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⭐ From [azizulhoq953](https://github.com/azizulhoq953)
+
+**Thanks for visiting! Show some ❤️ by starring some repositories!**
+
+</div>
