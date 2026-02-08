@@ -49,8 +49,14 @@ I am a passionate **Developer** from Bangladesh 🇧🇩.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=azizulhoq953&theme=highcontrast&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulhoq953&layout=compact&theme=vision-friendly-dark&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizulhoq953&layout=compact&theme=vision-friendly-dark&hide_progress=false&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azizulhoq953&show_icons=true&theme=vision-friendly-dark&cache_seconds=1800" alt="General Stats" />
 </p>
 
 ---
